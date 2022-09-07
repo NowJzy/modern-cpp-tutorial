@@ -1,1 +1,1 @@
-Creating a new branch is quick.
+This is a repo to record the source code of the book "modern cpp tutorial".
